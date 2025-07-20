@@ -29,4 +29,4 @@ jobs:
       with:
         name: cmrandomizerv2
         path: D:/a/TOTKChallengeModeRandomizer/TOTKChallengeModeRandomizer/latest/**
-        if-no-files-found: error
+        if-no-files-found: error 
